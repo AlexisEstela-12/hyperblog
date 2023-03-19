@@ -4,5 +4,6 @@ Esta es la historia
 del primer proyecto en git
 
 
-de alExis Estela Lozano. 
+de alExis Estela Lozano 
+y tengo 24 años. 
 
